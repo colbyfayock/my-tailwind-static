@@ -1,6 +1,7 @@
 # Tailwind Dynamic App Demo
-This is a demo repo for https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/
 
----
+Learn how to create your own with [How to Install and Setup Tailwind CSS on a Website or React App](https://www.youtube.com/watch?v=7KeZcRMltP0)
 
-# my-tailwind-static
+## More tutorials and walkthroughs
+* [Follow me on Twitter](https://twitter.com/colbyfayock)
+* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
